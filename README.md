@@ -29,7 +29,7 @@ tooling  → GitHub Actions · Figma · AI-assisted dev
 
 ---
 
-#### PROYECTOS
+#### PROJECTS
 
 <table>
 <tr>
