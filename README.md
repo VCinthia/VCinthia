@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Cinthia Romina Vota</h1>
+<h1>Hi there, I'm Cinthia</h1>
 
 <sub>Software Developer · Full Stack · Buenos Aires</sub>
 
