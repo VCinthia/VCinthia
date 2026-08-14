@@ -47,7 +47,7 @@ tooling  → GitHub Actions · Figma · AI-assisted dev
 </a>
 <br>
 <b>Astronomy Explorer</b><br>
-<sub>Web app — Angular · Tailwind · NASA APOD API</sub>
+<sub>Web app — .NET · PostgreSQL · Angular · Tailwind · Docker · NASA APOD API</sub>
 </td>
 </tr>
 </table>
